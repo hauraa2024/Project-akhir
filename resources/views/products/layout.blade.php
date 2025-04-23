@@ -75,6 +75,11 @@
                         <a class="nav-link" href="{{ route('tasks.index') }}">
                             <i class="fa-solid fa-user"></i> Tasks
                         </a>
+                        </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route('pengeluaran.index') }}">
+                            <i class="fa-solid fa-user"></i> Pengeluaran
+                        </a>
                     </li>
                 </ul>
             </div>
